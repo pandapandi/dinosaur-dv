@@ -113,7 +113,7 @@ After running `main.py`, the Dash app should be accessible locally in your web b
 
 
 ## Authors
-- [Rishav Aich](mailto:aich.1@iitj.ac.in) (B.Tech. Artificial Intelligence & Data Science)  
+- [Vilok Parkhi](mailto:parkhi.2@iitj.ac.in) (B.Tech. Engineering Science)  
 - [Tanish Pagaria](mailto:pagaria.2@iitj.ac.in) (B.Tech. Artificial Intelligence & Data Science)
 
 (IIT Jodhpur Undergraduates)
